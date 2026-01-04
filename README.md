@@ -1,4 +1,4 @@
-#Ciscord
+# Ciscord
 A fast and customizable Discord client — without bullshit.
 
 ## ⚠️ Experimental project
